@@ -1,4 +1,4 @@
-## Custom “US-International No Dead Keys” Layout (Concise)
+## Custom “US-International No Dead Keys” Layout with auto correct accents for Italian
 
 - **Base layout:** US-International  
 - **Dead keys disabled:** `` ` ``, `~`, `'`, `"` and `^` send their symbol immediately  
