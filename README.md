@@ -2,11 +2,11 @@
 
 - **Base layout:** US
 - **Dead keys disabled:** `` ` ``, `~`, `'`, `"` and `^` send their symbol immediately
-- **Accented vowels:** "Ctrl + Shift + letter" → correct italian accent; "Ctrl + Shift + Alt + e" -> é
+- **Accented vowels:** "Ctrl + Shift + letter" → correct italian accent
 - **No useless accents:** only correct accents for italian
 - **No useless uppercase:** c'mon you know that uppercase accented letters are useless
 
-### Key mappings (Ctrl + Shift + Key)
+### Key mappings (Ctrl + Shift + Alt + Key)
 
 | Key | Output | Code point |
 | :-: | :----: | :--------: |
@@ -16,7 +16,7 @@
 |  o  |   ò    |   U+00F2   |
 |  u  |   ù    |   U+00F9   |
 
-### Key mappings (Ctrl + Shift + Alt + Key)
+### Key mappings (Ctrl + Shift + Key)
 
 | Key | Output | Code point |
 | :-: | :----: | :--------: |
@@ -24,9 +24,9 @@
 
 ### Example of usage
 
-"Ctrl + Shift + e" -> è
-"Ctrl + Shift + u" -> ù
-"Ctrl + Shift + Alt + e" -> é
+"Ctrl + Shift + Alt + e" -> è
+"Ctrl + Shift + Alt + u" -> ù
+"Ctrl + Shift + e" -> é
 
 ### How to use it on your machine
 
